@@ -1,6 +1,6 @@
 # AI Tools for Academia (Aug 2025)
 
-A neutral, practical directory of AI tools used across higher education: **research discovery**, **writing & citations**, **presentations**, **STEM tutoring**, **coding & prototyping**, **voice & narration**, **immersive media**, and **multi‑model workflows**.
+A neutral, practical directory of AI tools used across higher education: **research discovery**, **writing & citations**, **presentations**, **STEM tutoring**, **coding & prototyping**, **voice & narration** and **immersive media**.
 
 > **Purpose**: support educators, students, and support staff in using AI responsibly to enhance learning, not replace it.
 
@@ -15,10 +15,10 @@ A neutral, practical directory of AI tools used across higher education: **resea
 | Research discovery       | Scite                      | Smart citations      | [https://scite.ai](https://scite.ai)                                                                       |
 | Research discovery       | Scholarcy                  | Summaries/flashcards | [https://www.scholarcy.com](https://www.scholarcy.com)                                                     |
 | Research discovery       | ResearchRabbit             | Citation networks    | [https://www.researchrabbit.ai](https://www.researchrabbit.ai)                                             |
-| Research discovery       | Paperpal (search)          | Reference finding    | [https://paperpal.com](https://paperpal.com)                                                               |
-| Writing & citations      | ChatGPT                    | Drafting/brainstorm  | [https://www.openai.com/chatgpt](https://www.openai.com/chatgpt)                                           |
+| Writing & citations      | ChatGPT                    | Drafting/brainstorm  | [https://chatgpt.com](https://www.chatgpt.com)                                           |
 | Writing & citations      | Claude                     | Long‑doc analysis    | [https://claude.ai](https://claude.ai)                                                                     |
-| Writing & citations      | Gemini                     | Workspace tools      | [https://ai.google](https://ai.google)                                                                     |
+| Writing & citations      | Perplexity                 | Workspace tools      | [https://ai.google](https://ai.google)       
+| Writing & citations      | Gemini                     | Workspace tools      | [https://gemini.google.com/](https://gemini.google.com/)                                                                     |
 | Writing & citations      | Yomu                       | Copilot + citations  | [https://yomu.ai](https://yomu.ai)                                                                         |
 | Writing & citations      | Paperpal (writer)          | Style & checks       | [https://paperpal.com](https://paperpal.com)                                                               |
 | Writing & citations      | Scribbr Citation Generator | APA/MLA/Chicago      | [https://www.scribbr.com/citation/generator/](https://www.scribbr.com/citation/generator/)                 |
@@ -26,35 +26,25 @@ A neutral, practical directory of AI tools used across higher education: **resea
 | Slides                   | Gamma                      | Web‑native decks     | [https://gamma.app](https://gamma.app)                                                                     |
 | Slides                   | Slidesgo AI                | Free maker           | [https://slidesgo.com/ai/presentation-maker](https://slidesgo.com/ai/presentation-maker)                   |
 | Slides                   | Canva Magic Design         | Templates + images   | [https://www.canva.com/create/ai-presentations/](https://www.canva.com/create/ai-presentations/)           |
-| Slides                   | Tome                       | Storytelling slides  | [https://tome.app](https://tome.app)                                                                       |
 | Slides                   | SlidesAI                   | Text→slides          | [https://www.slidesai.io](https://www.slidesai.io)                                                         |
 | Diagrams & posters       | Miro AI                    | Flowcharts/maps      | [https://miro.com/ai/](https://miro.com/ai/)                                                               |
-| Diagrams & posters       | Lucidchart                 | Diagrams from text   | [https://www.lucidchart.com](https://www.lucidchart.com)                                                   |
-| Diagrams & posters       | Whimsical                  | AI flowcharts        | [https://whimsical.com](https://whimsical.com)                                                             |
-| Diagrams & posters       | BioRender                  | Scientific figures   | [https://biorender.com](https://biorender.com)                                                             |
 | Diagrams & posters       | Illustrae                  | Sci. illustration    | [https://illustrae.co](https://illustrae.co)                                                               |
 | Diagrams & posters       | Postcrest                  | Sci. diagrams        | [https://postcrest.com/ai-images/scientific-diagrams](https://postcrest.com/ai-images/scientific-diagrams) |
-| Diagrams & posters       | Venngage                   | Poster layouts       | [https://venngage.com/ai-tools/poster-generator](https://venngage.com/ai-tools/poster-generator)           |
+| Diagrams & posters       | Venngage                   | Infographics         | [https://venngage.com/](https://venngage.com/)           |
 | Voice & narration        | ElevenLabs                 | Natural TTS          | [https://elevenlabs.io](https://elevenlabs.io)                                                             |
 | Voice & narration        | Resemble.ai                | Custom voices        | [https://www.resemble.ai](https://www.resemble.ai)                                                         |
 | Voice & narration        | Narakeet                   | PPT→video            | [https://www.narakeet.com](https://www.narakeet.com)                                                       |
 | Voice & narration        | Speechify Studio           | TTS + cloning        | [https://speechify.com/voice-cloning/](https://speechify.com/voice-cloning/)                               |
 | STEM tutors              | Photomath                  | Photo→steps          | [https://photomath.com](https://photomath.com)                                                             |
-| STEM tutors              | Symbolab                   | Step calculators     | [https://symbolab.com](https://symbolab.com)                                                               |
-| STEM tutors              | Julius.ai                  | Equations/graphs     | [https://www.julius.ai](https://www.julius.ai)                                                             |
+| STEM tutors              | Julius.ai                  | Data Analysis        | [https://www.julius.ai](https://www.julius.ai)                                                             |
 | STEM tutors              | Mathway                    | Multi‑subject steps  | [https://www.mathway.com](https://www.mathway.com)                                                         |
 | STEM tutors              | Math‑GPT.org               | Photo→worked steps   | [https://math-gpt.org](https://math-gpt.org)                                                               |
 | STEM tutors              | Math‑GPT.ai                | Algebra→calculus     | [https://math-gpt.ai](https://math-gpt.ai)                                                                 |
 | Coding & prototyping     | Replit Agent               | Prompt→app           | [https://replit.com/usecases/ai-app-builder](https://replit.com/usecases/ai-app-builder)                   |
-| Coding & prototyping     | Vercel v0                  | App builder          | [https://vercel.com/blog/v0-platform-api](https://vercel.com/blog/v0-platform-api)                         |
 | Coding & prototyping     | Bubble AI                  | No‑code scaffolds    | [https://bubble.io/ai-app-generator](https://bubble.io/ai-app-generator)                                   |
 | Coding & prototyping     | GitHub Copilot             | Code autocomplete    | [https://github.com/features/copilot](https://github.com/features/copilot)                                 |
 | Coding & prototyping     | Cursor                     | AI‑first IDE         | [https://cursor.com](https://cursor.com)                                                                   |
 | Immersive & creative     | Mirage 2                   | 2D→3D worlds         | [https://demo.dynamicslab.ai](https://demo.dynamicslab.ai)                                                 |
-| Multi‑model & comparison | CrewAI                     | Agent orchestration  | [https://www.crewai.com](https://www.crewai.com)                                                           |
-| Multi‑model & comparison | LMSYS Chatbot Arena        | Model compare        | [https://lmsys.org/arena](https://lmsys.org/arena)                                                         |
-| Multi‑model & comparison | Poe                        | Multi‑model chat     | [https://poe.com](https://poe.com)                                                                         |
-| Multi‑model & comparison | TeamAI                     | Unified access       | [https://teamai.com](https://teamai.com)                                                                   |
 
 ---
 
@@ -89,11 +79,6 @@ A neutral, practical directory of AI tools used across higher education: **resea
 
 * **Use cases:** rapid prototypes, demos, interactive worlds.
 * **Notes:** document generation steps, architecture, and code reviews. Attribute AI‑generated parts where policy requires.
-
-### Multi‑model workflows & verification
-
-* **Use cases:** compare model outputs, orchestrate agents, triangulate facts.
-* **Notes:** keep a short methodology note (models, versions, sources) with submissions.
 
 ---
 
