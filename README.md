@@ -35,6 +35,9 @@ A neutral, practical directory of AI tools used across higher education: **resea
 | Voice & narration        | Resemble.ai                | Custom voices        | [https://www.resemble.ai](https://www.resemble.ai)                                                         |
 | Voice & narration        | Narakeet                   | PPT→video            | [https://www.narakeet.com](https://www.narakeet.com)                                                       |
 | Voice & narration        | Speechify Studio           | TTS + cloning        | [https://speechify.com/voice-cloning/](https://speechify.com/voice-cloning/)                               |
+| Video                    | Veo                        | Video & Voice        | [https://deepmind.google/models/veo/](https://deepmind.google/models/veo/)                                 |
+| Video                    | Sora                       | Video                | [https://sora.chatgpt.com/](https://sora.chatgpt.com/)                                                     |
+| Video                    | Synthesia.io               | Video Avatar         | [https://www.synthesia.io/](https://www.synthesia.io/)                                                     |
 | STEM tutors              | Photomath                  | Photo→steps          | [https://photomath.com](https://photomath.com)                                                             |
 | STEM tutors              | Julius.ai                  | Data Analysis        | [https://www.julius.ai](https://www.julius.ai)                                                             |
 | STEM tutors              | Mathway                    | Multi‑subject steps  | [https://www.mathway.com](https://www.mathway.com)                                                         |
@@ -44,7 +47,7 @@ A neutral, practical directory of AI tools used across higher education: **resea
 | Coding & prototyping     | Bubble AI                  | No‑code scaffolds    | [https://bubble.io/ai-app-generator](https://bubble.io/ai-app-generator)                                   |
 | Coding & prototyping     | GitHub Copilot             | Code autocomplete    | [https://github.com/features/copilot](https://github.com/features/copilot)                                 |
 | Coding & prototyping     | Cursor                     | AI‑first IDE         | [https://cursor.com](https://cursor.com)                                                                   |
-| Immersive & creative     | Mirage 2                   | 2D→3D worlds         | [https://demo.dynamicslab.ai](https://demo.dynamicslab.ai)                                                 |
+| Immersive 3D             | Mirage 2                   | 2D→3D worlds         | [https://demo.dynamicslab.ai](https://demo.dynamicslab.ai)                                                 |
 
 ---
 
