@@ -1,115 +1,124 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>AI Tools for Academia — Table (Aug 2025)</title>
-<style>
-  :root{--bg:#ffffff;--fg:#0f172a;--muted:#475569;--accent:#2563eb;--row:#f8fafc;--border:#e2e8f0}
-  body{margin:0;padding:24px;background:var(--bg);color:var(--fg);font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif}
-  h1{font-size:28px;margin:0 0 6px 0}
-  p{color:var(--muted);margin:0 0 16px 0}
-  .wrap{max-width:1100px;margin:0 auto}
-  .toolbar{display:flex;gap:12px;align-items:center;margin:14px 0}
-  input[type="search"]{padding:10px 12px;border:1px solid var(--border);border-radius:10px;font-size:14px;width:280px}
-  table{width:100%;border-collapse:collapse;font-size:14px}
-  th,td{border:1px solid var(--border);padding:10px 12px;vertical-align:top}
-  th{background:#eef2ff;text-align:left;position:sticky;top:0;z-index:1}
-  tr:nth-child(even){background:var(--row)}
-  a{color:var(--accent);text-decoration:none}
-  a:hover{text-decoration:underline}
-  .cat{white-space:nowrap;font-weight:600}
-  .desc{color:#111827}
-  .small{color:var(--muted);font-size:12px}
-</style>
-</head>
-<body>
-<div class="wrap">
-  <h1>AI Tools for Academia — Table (Aug 2025)</h1>
-  <p>Directory of commonly used academic AI tools. Use the search box to filter. (Links open in a new tab.)</p>
-  <div class="toolbar">
-    <input id="q" type="search" placeholder="Filter by category, tool, or keyword…" />
-    <span class="small">Tip: try “citations”, “slides”, “STEM”, “voice”, “diagram”, “code”.</span>
-  </div>
-  <table id="tbl">
-    <thead>
-      <tr><th style="width:160px">Category</th><th style="width:220px">Tool</th><th>Description</th><th style="width:160px">Link</th></tr>
-    </thead>
-    <tbody>
-      <!-- Research discovery & literature -->
-      <tr><td class="cat">Research discovery</td><td>Elicit</td><td class="desc">AI research assistant; finds & summarises papers; exports citations.</td><td><a href="https://elicit.com" target="_blank">elicit.com</a></td></tr>
-      <tr><td class="cat">Research discovery</td><td>Consensus</td><td class="desc">Evidence‑based answers from papers; auto‑citations.</td><td><a href="https://consensus.app" target="_blank">consensus.app</a></td></tr>
-      <tr><td class="cat">Research discovery</td><td>Scite</td><td class="desc">Smart citations; shows supporting/contrasting evidence.</td><td><a href="https://scite.ai" target="_blank">scite.ai</a></td></tr>
-      <tr><td class="cat">Research discovery</td><td>Scholarcy</td><td class="desc">Summaries to flashcards; key points, references & highlights.</td><td><a href="https://www.scholarcy.com" target="_blank">scholarcy.com</a></td></tr>
-      <tr><td class="cat">Research discovery</td><td>ResearchRabbit</td><td class="desc">Citation network visualisation; related work alerts.</td><td><a href="https://www.researchrabbit.ai" target="_blank">researchrabbit.ai</a></td></tr>
-      <tr><td class="cat">Research discovery</td><td>Paperpal (search)</td><td class="desc">Finds references; integrates with writing & checks.</td><td><a href="https://paperpal.com" target="_blank">paperpal.com</a></td></tr>
+# AI Tools for Academia (Aug 2025)
 
-      <!-- Writing & citations -->
-      <tr><td class="cat">Writing & citations</td><td>ChatGPT</td><td class="desc">Brainstorming, drafting, editing; quick explanations.</td><td><a href="https://www.openai.com/chatgpt" target="_blank">openai.com/chatgpt</a></td></tr>
-      <tr><td class="cat">Writing & citations</td><td>Claude</td><td class="desc">Strong long‑document analysis; clear prose.</td><td><a href="https://claude.ai" target="_blank">claude.ai</a></td></tr>
-      <tr><td class="cat">Writing & citations</td><td>Gemini</td><td class="desc">Workspace integration; NotebookLM support.</td><td><a href="https://ai.google" target="_blank">ai.google</a></td></tr>
-      <tr><td class="cat">Writing & citations</td><td>Yomu</td><td class="desc">Writing copilot with citation tool; plagiarism check option.</td><td><a href="https://yomu.ai" target="_blank">yomu.ai</a></td></tr>
-      <tr><td class="cat">Writing & citations</td><td>Paperpal (writer)</td><td class="desc">Style, grammar, citation management; pre‑submission checks.</td><td><a href="https://paperpal.com" target="_blank">paperpal.com</a></td></tr>
-      <tr><td class="cat">Writing & citations</td><td>Scribbr Citation Generator</td><td class="desc">APA/MLA/Chicago generators with DOI/URL lookup.</td><td><a href="https://www.scribbr.com/citation/generator/" target="_blank">scribbr.com</a></td></tr>
+A neutral, practical directory of AI tools used across higher education: **research discovery**, **writing & citations**, **presentations**, **STEM tutoring**, **coding & prototyping**, **voice & narration**, **immersive media**, and **multi‑model workflows**.
 
-      <!-- Presentations: slides, diagrams, posters -->
-      <tr><td class="cat">Slides</td><td>Plus AI</td><td class="desc">Google Slides/PowerPoint add‑on; prompt → outline → deck.</td><td><a href="https://www.plusai.com" target="_blank">plusai.com</a></td></tr>
-      <tr><td class="cat">Slides</td><td>Gamma</td><td class="desc">Presentations/web docs from text prompts; shareable links.</td><td><a href="https://gamma.app" target="_blank">gamma.app</a></td></tr>
-      <tr><td class="cat">Slides</td><td>Slidesgo AI</td><td class="desc">Free presentation maker; Google Slides/PowerPoint compatible.</td><td><a href="https://slidesgo.com/ai/presentation-maker" target="_blank">slidesgo.com</a></td></tr>
-      <tr><td class="cat">Slides</td><td>Canva Magic Design</td><td class="desc">AI presentation creation with templates & images.</td><td><a href="https://www.canva.com/create/ai-presentations/" target="_blank">canva.com</a></td></tr>
-      <tr><td class="cat">Slides</td><td>Tome</td><td class="desc">Storytelling‑first slide generation & layouts.</td><td><a href="https://tome.app" target="_blank">tome.app</a></td></tr>
-      <tr><td class="cat">Slides</td><td>SlidesAI</td><td class="desc">Generates Google Slides/PowerPoint from text; themes & edits.</td><td><a href="https://www.slidesai.io" target="_blank">slidesai.io</a></td></tr>
+> **Purpose**: support educators, students, and support staff in using AI responsibly to enhance learning, not replace it.
 
-      <tr><td class="cat">Diagrams & posters</td><td>Miro AI</td><td class="desc">Flowcharts, mind maps, ER diagrams; collaboration.</td><td><a href="https://miro.com/ai/" target="_blank">miro.com/ai</a></td></tr>
-      <tr><td class="cat">Diagrams & posters</td><td>Lucidchart</td><td class="desc">Generate diagrams from text; flowcharts & system maps.</td><td><a href="https://www.lucidchart.com" target="_blank">lucidchart.com</a></td></tr>
-      <tr><td class="cat">Diagrams & posters</td><td>Whimsical</td><td class="desc">AI flowchart & mind‑map generator from prompts.</td><td><a href="https://whimsical.com" target="_blank">whimsical.com</a></td></tr>
-      <tr><td class="cat">Diagrams & posters</td><td>BioRender</td><td class="desc">Professional scientific figures and pathways.</td><td><a href="https://biorender.com" target="_blank">biorender.com</a></td></tr>
-      <tr><td class="cat">Diagrams & posters</td><td>Illustrae</td><td class="desc">Scientific illustrations from text, photos or sketches.</td><td><a href="https://illustrae.co" target="_blank">illustrae.co</a></td></tr>
-      <tr><td class="cat">Diagrams & posters</td><td>Postcrest</td><td class="desc">AI scientific diagrams (e.g., water cycle, geology).</td><td><a href="https://postcrest.com/ai-images/scientific-diagrams" target="_blank">postcrest.com</a></td></tr>
-      <tr><td class="cat">Diagrams & posters</td><td>Venngage</td><td class="desc">Poster generator and academic layouts.</td><td><a href="https://venngage.com/ai-tools/poster-generator" target="_blank">venngage.com</a></td></tr>
+---
 
-      <!-- Voice & narration -->
-      <tr><td class="cat">Voice & narration</td><td>ElevenLabs</td><td class="desc">Natural TTS and voice cloning; many languages.</td><td><a href="https://elevenlabs.io" target="_blank">elevenlabs.io</a></td></tr>
-      <tr><td class="cat">Voice & narration</td><td>Resemble.ai</td><td class="desc">Customisable cloned voices; TTS for slides & videos.</td><td><a href="https://www.resemble.ai" target="_blank">resemble.ai</a></td></tr>
-      <tr><td class="cat">Voice & narration</td><td>Narakeet</td><td class="desc">Convert PowerPoint to narrated video; 100+ languages.</td><td><a href="https://www.narakeet.com" target="_blank">narakeet.com</a></td></tr>
-      <tr><td class="cat">Voice & narration</td><td>Speechify Studio</td><td class="desc">TTS and quick voice cloning in browser.</td><td><a href="https://speechify.com/voice-cloning/" target="_blank">speechify.com</a></td></tr>
+## Quick reference table
 
-      <!-- STEM tutors & solvers -->
-      <tr><td class="cat">STEM tutors</td><td>Photomath</td><td class="desc">Photo‑based math help with step‑by‑step explanations.</td><td><a href="https://photomath.com" target="_blank">photomath.com</a></td></tr>
-      <tr><td class="cat">STEM tutors</td><td>Symbolab</td><td class="desc">Step‑by‑step calculators across algebra → calculus.</td><td><a href="https://symbolab.com" target="_blank">symbolab.com</a></td></tr>
-      <tr><td class="cat">STEM tutors</td><td>Julius.ai</td><td class="desc">Equation solving, photo input, graphs & steps.</td><td><a href="https://www.julius.ai" target="_blank">julius.ai</a></td></tr>
-      <tr><td class="cat">STEM tutors</td><td>Mathway</td><td class="desc">Multi‑subject math solver with worked steps.</td><td><a href="https://www.mathway.com" target="_blank">mathway.com</a></td></tr>
-      <tr><td class="cat">STEM tutors</td><td>Math‑GPT.org</td><td class="desc">Photo → multi‑step solution; optional video explainer.</td><td><a href="https://math-gpt.org" target="_blank">math-gpt.org</a></td></tr>
-      <tr><td class="cat">STEM tutors</td><td>Math‑GPT.ai</td><td class="desc">Solver for algebra → calculus; concise steps.</td><td><a href="https://math-gpt.ai" target="_blank">math-gpt.ai</a></td></tr>
+**Tip:** Keep entries short. Longer guidance appears in the category sections below.
 
-      <!-- Coding & prototyping -->
-      <tr><td class="cat">Coding & prototyping</td><td>Replit Agent</td><td class="desc">Build apps from natural‑language prompts; deploy quickly.</td><td><a href="https://replit.com/usecases/ai-app-builder" target="_blank">replit.com</a></td></tr>
-      <tr><td class="cat">Coding & prototyping</td><td>Vercel v0</td><td class="desc">Prompt‑to‑app builder; code & deploy pipeline.</td><td><a href="https://vercel.com/blog/v0-platform-api" target="_blank">vercel.com</a></td></tr>
-      <tr><td class="cat">Coding & prototyping</td><td>Bubble AI</td><td class="desc">No‑code app generator with AI scaffolding.</td><td><a href="https://bubble.io/ai-app-generator" target="_blank">bubble.io</a></td></tr>
-      <tr><td class="cat">Coding & prototyping</td><td>GitHub Copilot</td><td class="desc">Code completion & chat; free for students via Student Pack.</td><td><a href="https://github.com/features/copilot" target="_blank">github.com</a></td></tr>
-      <tr><td class="cat">Coding & prototyping</td><td>Cursor</td><td class="desc">AI‑first IDE with in‑editor prompting & refactors.</td><td><a href="https://cursor.com" target="_blank">cursor.com</a></td></tr>
+| Category                 | Tool                       | Focus                | Link                                                                                                       |
+| ------------------------ | -------------------------- | -------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Research discovery       | Elicit                     | Literature search    | [https://elicit.com](https://elicit.com)                                                                   |
+| Research discovery       | Consensus                  | Evidence answers     | [https://consensus.app](https://consensus.app)                                                             |
+| Research discovery       | Scite                      | Smart citations      | [https://scite.ai](https://scite.ai)                                                                       |
+| Research discovery       | Scholarcy                  | Summaries/flashcards | [https://www.scholarcy.com](https://www.scholarcy.com)                                                     |
+| Research discovery       | ResearchRabbit             | Citation networks    | [https://www.researchrabbit.ai](https://www.researchrabbit.ai)                                             |
+| Research discovery       | Paperpal (search)          | Reference finding    | [https://paperpal.com](https://paperpal.com)                                                               |
+| Writing & citations      | ChatGPT                    | Drafting/brainstorm  | [https://www.openai.com/chatgpt](https://www.openai.com/chatgpt)                                           |
+| Writing & citations      | Claude                     | Long‑doc analysis    | [https://claude.ai](https://claude.ai)                                                                     |
+| Writing & citations      | Gemini                     | Workspace tools      | [https://ai.google](https://ai.google)                                                                     |
+| Writing & citations      | Yomu                       | Copilot + citations  | [https://yomu.ai](https://yomu.ai)                                                                         |
+| Writing & citations      | Paperpal (writer)          | Style & checks       | [https://paperpal.com](https://paperpal.com)                                                               |
+| Writing & citations      | Scribbr Citation Generator | APA/MLA/Chicago      | [https://www.scribbr.com/citation/generator/](https://www.scribbr.com/citation/generator/)                 |
+| Slides                   | Plus AI                    | Prompt→deck          | [https://www.plusai.com](https://www.plusai.com)                                                           |
+| Slides                   | Gamma                      | Web‑native decks     | [https://gamma.app](https://gamma.app)                                                                     |
+| Slides                   | Slidesgo AI                | Free maker           | [https://slidesgo.com/ai/presentation-maker](https://slidesgo.com/ai/presentation-maker)                   |
+| Slides                   | Canva Magic Design         | Templates + images   | [https://www.canva.com/create/ai-presentations/](https://www.canva.com/create/ai-presentations/)           |
+| Slides                   | Tome                       | Storytelling slides  | [https://tome.app](https://tome.app)                                                                       |
+| Slides                   | SlidesAI                   | Text→slides          | [https://www.slidesai.io](https://www.slidesai.io)                                                         |
+| Diagrams & posters       | Miro AI                    | Flowcharts/maps      | [https://miro.com/ai/](https://miro.com/ai/)                                                               |
+| Diagrams & posters       | Lucidchart                 | Diagrams from text   | [https://www.lucidchart.com](https://www.lucidchart.com)                                                   |
+| Diagrams & posters       | Whimsical                  | AI flowcharts        | [https://whimsical.com](https://whimsical.com)                                                             |
+| Diagrams & posters       | BioRender                  | Scientific figures   | [https://biorender.com](https://biorender.com)                                                             |
+| Diagrams & posters       | Illustrae                  | Sci. illustration    | [https://illustrae.co](https://illustrae.co)                                                               |
+| Diagrams & posters       | Postcrest                  | Sci. diagrams        | [https://postcrest.com/ai-images/scientific-diagrams](https://postcrest.com/ai-images/scientific-diagrams) |
+| Diagrams & posters       | Venngage                   | Poster layouts       | [https://venngage.com/ai-tools/poster-generator](https://venngage.com/ai-tools/poster-generator)           |
+| Voice & narration        | ElevenLabs                 | Natural TTS          | [https://elevenlabs.io](https://elevenlabs.io)                                                             |
+| Voice & narration        | Resemble.ai                | Custom voices        | [https://www.resemble.ai](https://www.resemble.ai)                                                         |
+| Voice & narration        | Narakeet                   | PPT→video            | [https://www.narakeet.com](https://www.narakeet.com)                                                       |
+| Voice & narration        | Speechify Studio           | TTS + cloning        | [https://speechify.com/voice-cloning/](https://speechify.com/voice-cloning/)                               |
+| STEM tutors              | Photomath                  | Photo→steps          | [https://photomath.com](https://photomath.com)                                                             |
+| STEM tutors              | Symbolab                   | Step calculators     | [https://symbolab.com](https://symbolab.com)                                                               |
+| STEM tutors              | Julius.ai                  | Equations/graphs     | [https://www.julius.ai](https://www.julius.ai)                                                             |
+| STEM tutors              | Mathway                    | Multi‑subject steps  | [https://www.mathway.com](https://www.mathway.com)                                                         |
+| STEM tutors              | Math‑GPT.org               | Photo→worked steps   | [https://math-gpt.org](https://math-gpt.org)                                                               |
+| STEM tutors              | Math‑GPT.ai                | Algebra→calculus     | [https://math-gpt.ai](https://math-gpt.ai)                                                                 |
+| Coding & prototyping     | Replit Agent               | Prompt→app           | [https://replit.com/usecases/ai-app-builder](https://replit.com/usecases/ai-app-builder)                   |
+| Coding & prototyping     | Vercel v0                  | App builder          | [https://vercel.com/blog/v0-platform-api](https://vercel.com/blog/v0-platform-api)                         |
+| Coding & prototyping     | Bubble AI                  | No‑code scaffolds    | [https://bubble.io/ai-app-generator](https://bubble.io/ai-app-generator)                                   |
+| Coding & prototyping     | GitHub Copilot             | Code autocomplete    | [https://github.com/features/copilot](https://github.com/features/copilot)                                 |
+| Coding & prototyping     | Cursor                     | AI‑first IDE         | [https://cursor.com](https://cursor.com)                                                                   |
+| Immersive & creative     | Mirage 2                   | 2D→3D worlds         | [https://demo.dynamicslab.ai](https://demo.dynamicslab.ai)                                                 |
+| Multi‑model & comparison | CrewAI                     | Agent orchestration  | [https://www.crewai.com](https://www.crewai.com)                                                           |
+| Multi‑model & comparison | LMSYS Chatbot Arena        | Model compare        | [https://lmsys.org/arena](https://lmsys.org/arena)                                                         |
+| Multi‑model & comparison | Poe                        | Multi‑model chat     | [https://poe.com](https://poe.com)                                                                         |
+| Multi‑model & comparison | TeamAI                     | Unified access       | [https://teamai.com](https://teamai.com)                                                                   |
 
-      <!-- Immersive & creative -->
-      <tr><td class="cat">Immersive & creative</td><td>Mirage 2</td><td class="desc">Turn a 2D image into an explorable 3D world; NL scene edits.</td><td><a href="https://demo.dynamicslab.ai" target="_blank">dynamicslab.ai</a></td></tr>
+---
 
-      <!-- Multi‑model & comparison -->
-      <tr><td class="cat">Multi‑model & comparison</td><td>CrewAI</td><td class="desc">Orchestrate multiple LLM agents for complex tasks.</td><td><a href="https://www.crewai.com" target="_blank">crewai.com</a></td></tr>
-      <tr><td class="cat">Multi‑model & comparison</td><td>LMSYS Chatbot Arena</td><td class="desc">Side‑by‑side model comparisons; community benchmarks.</td><td><a href="https://lmsys.org/arena" target="_blank">lmsys.org/arena</a></td></tr>
-      <tr><td class="cat">Multi‑model & comparison</td><td>Poe</td><td class="desc">Access multiple models in one chat interface.</td><td><a href="https://poe.com" target="_blank">poe.com</a></td></tr>
-      <tr><td class="cat">Multi‑model & comparison</td><td>TeamAI</td><td class="desc">Unified access to GPT, Claude, Gemini, etc.; shared spaces.</td><td><a href="https://teamai.com" target="_blank">teamai.com</a></td></tr>
-    </tbody>
-  </table>
-</div>
-<script>
-  const q = document.getElementById('q');
-  const rows = Array.from(document.querySelectorAll('#tbl tbody tr'));
-  q.addEventListener('input', ()=>{
-    const term = q.value.trim().toLowerCase();
-    rows.forEach(tr=>{
-      const hit = tr.textContent.toLowerCase().includes(term);
-      tr.style.display = hit ? '' : 'none';
-    });
-  });
-</script>
-</body>
-</html>
+## Category guides (concise)
+
+### Research discovery
+
+* **Use cases:** find papers, scan evidence quality, map related work.
+* **Notes:** keep a reproducible search log (queries, filters), export citations (BibTeX/EndNote), track supporting vs. contrasting citations (e.g., Scite).
+
+### Writing & citations
+
+* **Use cases:** outlining, language refinement, citation formatting.
+* **Notes:** verify every reference (DOI/title/year). Keep an appendix of prompts/edits for transparency when required by your institution.
+
+### Presentations: slides, diagrams, posters
+
+* **Use cases:** prompt→slide deck, visual explanations, scientific figures.
+* **Notes:** prefer accessible slide templates; add alt text to images; keep sources on final slide.
+
+### Voice & narration
+
+* **Use cases:** narrated lectures, accessibility support, multilingual delivery.
+* **Notes:** get consent before cloning any real person’s voice; disclose synthetic narration when appropriate.
+
+### STEM tutors & worked examples
+
+* **Use cases:** step‑by‑step solutions, graphing, concept checks.
+* **Notes:** use to learn, then re‑derive unaided. For grading, many institutions require process evidence and tool disclosure.
+
+### Coding, prototyping & immersive
+
+* **Use cases:** rapid prototypes, demos, interactive worlds.
+* **Notes:** document generation steps, architecture, and code reviews. Attribute AI‑generated parts where policy requires.
+
+### Multi‑model workflows & verification
+
+* **Use cases:** compare model outputs, orchestrate agents, triangulate facts.
+* **Notes:** keep a short methodology note (models, versions, sources) with submissions.
+
+---
+
+## How to use this list
+
+* Start with the **category guide** you need, then pick 1–2 tools to trial.
+* For coursework, follow your institution’s **AI use policy** and disclosure rules.
+* Keep a minimal **methodology log**: prompts, models, versions, sources.
+
+## Contributing
+
+Have a tool to add or an edit to suggest?
+
+1. Open an issue describing the change (category, link, short “focus” phrase).
+2. Submit a PR that keeps table entries concise (≤ 6 words per cell).
+3. Avoid promotional language; keep descriptions neutral.
+
+## Versioning
+
+* **Last updated:** 2025‑08‑25
+* Changelog: use PR titles and commit messages to track additions/edits.
+
+## Licence & use
+
+* Content © Contributors, released under **CC BY 4.0**. You may remix/share with attribution.
+* This list is for **educational use**. Always follow your institution’s academic integrity policy and applicable laws.
