@@ -8,8 +8,6 @@ A neutral, practical directory of AI tools used across higher education: **resea
 
 ## Quick reference table
 
-**Tip:** Keep entries short. Longer guidance appears in the category sections below.
-
 | Category                 | Tool                       | Focus                | Link                                                                                                       |
 | ------------------------ | -------------------------- | -------------------- | ---------------------------------------------------------------------------------------------------------- |
 | Research discovery       | Elicit                     | Literature search    | [https://elicit.com](https://elicit.com)                                                                   |
