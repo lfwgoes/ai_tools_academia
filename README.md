@@ -22,6 +22,7 @@ A neutral, practical directory of AI tools used across higher education: **resea
 | Writing & citations      | Yomu                       | Copilot + citations  | [https://yomu.ai](https://yomu.ai)                                                                         |
 | Writing & citations      | Paperpal (writer)          | Style & checks       | [https://paperpal.com](https://paperpal.com)                                                               |
 | Writing & citations      | Scribbr Citation Generator | APA/MLA/Chicago      | [https://www.scribbr.com/citation/generator/](https://www.scribbr.com/citation/generator/)                 |
+| Writing & citations      | HumanPen                   | AI humanizer / format-safe rewrite | [https://humanpen.net](https://humanpen.net/)                                                      |
 | Slides                   | Plus AI                    | Prompt→deck          | [https://www.plusai.com](https://www.plusai.com)                                                           |
 | Slides                   | Gamma                      | Web‑native decks     | [https://gamma.app](https://gamma.app)                                                                     |
 | Slides                   | Slidesgo AI                | Free maker           | [https://slidesgo.com/ai/presentation-maker](https://slidesgo.com/ai/presentation-maker)                   |
