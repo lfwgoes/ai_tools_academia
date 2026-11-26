@@ -43,6 +43,7 @@ A neutral, practical directory of AI tools used across higher education: **resea
 | STEM tutors              | Mathway                    | Multi‑subject steps  | [https://www.mathway.com](https://www.mathway.com)                                                         |
 | STEM tutors              | Math‑GPT.org               | Photo→worked steps   | [https://math-gpt.org](https://math-gpt.org)                                                               |
 | STEM tutors              | Math‑GPT.ai                | Algebra→calculus     | [https://math-gpt.ai](https://math-gpt.ai)                                                                 |
+| STEM tutors              | ModuMath                   | Worked steps, then analogous practice | [ModuMath](https://math.hjinlabs.com/?lang=en) |
 | Coding & prototyping     | Replit Agent               | Prompt→app           | [https://replit.com/usecases/ai-app-builder](https://replit.com/usecases/ai-app-builder)                   |
 | Coding & prototyping     | Bubble AI                  | No‑code scaffolds    | [https://bubble.io/ai-app-generator](https://bubble.io/ai-app-generator)                                   |
 | Coding & prototyping     | GitHub Copilot             | Code autocomplete    | [https://github.com/features/copilot](https://github.com/features/copilot)                                 |
